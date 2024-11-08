@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anuar
-- 👀 I’m interested in Golang.
+- 👀 I like to write nice and clean golang code.
 - 💞️ I will be glad to make new acquaintances and share knowledge
 - 😄 Pronouns: he/him
 
