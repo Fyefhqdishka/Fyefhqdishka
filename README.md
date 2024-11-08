@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anuar
-- 👀 I’m interested in Golang, sometimes I write things in PHP.
+- 👀 I’m interested in Golang.
 - 💞️ I will be glad to make new acquaintances and share knowledge
 - 😄 Pronouns: he/him
 
